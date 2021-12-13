@@ -12,7 +12,7 @@ Demo - Hello World
 
 ## 2. Build applications
 
-    $ mvn clean install -DskipTests
+    $ mvn clean install 
 
 ## 3. Run applications locally
 
